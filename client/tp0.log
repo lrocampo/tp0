@@ -361,3 +361,73 @@ La clave: Hola, soy un valor
 
 [INFO] 07:11:33:820 TP0/(19396:19396): Consola: hola
 
+[INFO] 08:06:52:358 TP0/(26198:26198): Hola! soy un log
+[INFO] 08:06:52:358 TP0/(26198:26198): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:06:54:073 TP0/(26198:26198): Consola: hola
+
+[INFO] 08:10:21:683 TP0/(26463:26463): Hola! soy un log
+[INFO] 08:10:21:683 TP0/(26463:26463): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:10:22:797 TP0/(26463:26463): Consola: hola
+
+[INFO] 08:16:02:225 TP0/(26867:26867): Hola! soy un log
+[INFO] 08:16:02:225 TP0/(26867:26867): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:16:03:592 TP0/(26867:26867): Consola: hola
+
+[INFO] 08:17:28:748 TP0/(26993:26993): Hola! soy un log
+[INFO] 08:17:28:748 TP0/(26993:26993): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:17:30:246 TP0/(26993:26993): Consola: hola
+
+[INFO] 08:20:47:290 TP0/(27218:27218): Hola! soy un log
+[INFO] 08:20:47:290 TP0/(27218:27218): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:20:49:040 TP0/(27218:27218): Consola: hola
+
+[INFO] 08:38:21:504 TP0/(28226:28226): Hola! soy un log
+[INFO] 08:38:21:504 TP0/(28226:28226): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:38:23:113 TP0/(28226:28226): Consola: hola
+
+[INFO] 08:39:39:758 TP0/(28338:28338): Hola! soy un log
+[INFO] 08:39:39:758 TP0/(28338:28338): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:39:47:896 TP0/(28338:28338): Consola: hola
+
+[INFO] 08:42:23:222 TP0/(28505:28505): Hola! soy un log
+[INFO] 08:42:23:222 TP0/(28505:28505): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:42:24:858 TP0/(28505:28505): Consola: hola
+
+[INFO] 08:44:11:045 TP0/(28661:28661): Hola! soy un log
+[INFO] 08:44:11:045 TP0/(28661:28661): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:44:12:089 TP0/(28661:28661): Consola: hola
+
+[INFO] 08:46:19:840 TP0/(28809:28809): Hola! soy un log
+[INFO] 08:46:19:840 TP0/(28809:28809): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 08:46:20:855 TP0/(28809:28809): Consola: hola
+
