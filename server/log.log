@@ -155,3 +155,15 @@
 [INFO] 08:46:23:419 Servidor/(28806:28806): paquete
 
 [ERROR] 08:46:23:419 Servidor/(28806:28806): el cliente se desconecto. Terminando servidor
+[INFO] 19:50:59:616 Servidor/(3928:3928): Servidor listo para recibir al cliente
+[INFO] 19:51:06:634 Servidor/(3928:3928): Se conecto un cliente!
+[INFO] 19:51:06:634 Servidor/(3928:3928): Me llego el mensaje Hola, soy un valor
+[INFO] 19:51:15:883 Servidor/(3928:3928): Me llegaron los siguientes valores:
+
+[INFO] 19:51:15:883 Servidor/(3928:3928): soy
+
+[INFO] 19:51:15:884 Servidor/(3928:3928): un
+
+[INFO] 19:51:15:884 Servidor/(3928:3928): paquete
+
+[ERROR] 19:51:15:885 Servidor/(3928:3928): el cliente se desconecto. Terminando servidor

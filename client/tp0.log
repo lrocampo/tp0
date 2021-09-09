@@ -431,3 +431,10 @@ La clave: Hola, soy un valor
 
 [INFO] 08:46:20:855 TP0/(28809:28809): Consola: hola
 
+[INFO] 19:51:01:889 TP0/(3942:3942): Hola! soy un log
+[INFO] 19:51:01:908 TP0/(3942:3942): Obtuve el valor de la IP: 127.0.0.1
+El puerto: 4444 
+La clave: Hola, soy un valor 
+
+[INFO] 19:51:04:350 TP0/(3942:3942): Consola: hola
+
