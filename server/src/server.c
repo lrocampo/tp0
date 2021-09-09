@@ -8,7 +8,7 @@ int main(void) {
 	int cliente_fd = esperar_cliente(server_fd);
 
 	t_list* lista;
-	while (1) {int socket_cliente = 0;
+	while (1) {
 		int cod_op = recibir_operacion(cliente_fd);
 		switch (cod_op) {
 		case MENSAJE:
@@ -17,7 +17,7 @@ int main(void) {
 		case PAQUETE:
 			lista = recibir_paquete(cliente_fd);
 			log_info(logger, "Me llegaron los siguientes valores:\n");
-			list_iterate(lista, (void*) iterator);
+			list_iterate(lista, puts);
 			break;
 		case -1:
 			log_error(logger, "el cliente se desconecto. Terminando servidor");
